@@ -841,7 +841,7 @@ input {
     padding: 0;
   }
   #main_image {
-    content: url("/assets/img/rhm/home_small.jpg");
+    content: url("https://i.imgur.com/ZSOXDpQ.jpg");
   }
 }
 
@@ -979,13 +979,13 @@ input {
 
 @media only screen and (max-width: 820px) {
   #main_image {
-    content: url("/assets/img/rhm/home_small.jpg");
+    content: url("https://i.imgur.com/ZSOXDpQ.jpg");
   }
 }
 
 @media only screen and (min-width: 1120px) {
   #main_image {
-    content: url("/assets/img/rhm/home_large.jpg");
+    content: url("https://i.imgur.com/Zj98izw.jpg");
   }
   .home__data-subtitle,
   .home__data-title,
