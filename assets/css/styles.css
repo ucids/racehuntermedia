@@ -345,7 +345,7 @@ input {
 }
 
 .home__social-link {
-  font-size: 1.2rem;
+  font-size: 3rem;
   width: max-content;
 }
 
@@ -730,7 +730,7 @@ input {
 }
 
 .footer__social {
-  font-size: 1.25rem;
+  font-size: 6rem;
   color: var(--title-color);
   margin-right: var(--mb-1-25);
 }
