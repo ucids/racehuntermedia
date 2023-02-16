@@ -693,7 +693,7 @@ input {
 .sponsor__container {
   grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
   justify-items: center;
-  row-gap: 3.5rem;
+  row-gap: 3.5 rem;
 }
 
 .sponsor__content:hover .sponsor__img {
@@ -701,7 +701,7 @@ input {
 }
 
 .sponsor__img {
-  width: 90px;
+  width: 160px;
   filter: invert(0.7);
   transition: var(--img-transition);
 }
